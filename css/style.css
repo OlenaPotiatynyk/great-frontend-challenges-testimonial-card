@@ -50,19 +50,23 @@ body {
 }
 
 .card .user-info {
-  padding: 0 16px;
+  width: 244px;
+  padding-left: 16px;
 }
 
 .card .user-info h2 {
   color: #171717;
   font-size: 1.125rem; /* 18px; */
   line-height: 1.75rem; /* 28px; */
-
   margin: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .card .user-info p {
   font-size: 0.875rem; /* 14px; */
   line-height: 1.25rem; /* 20px; */
   margin: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }

@@ -3,4 +3,4 @@
 📚 What I Learned:
 
 - [x] HTML (semantic)
-- [x] CSS (background: linear-gradient, rem units)
+- [x] CSS (background: linear-gradient, text-overflow, rem units)
